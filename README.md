@@ -11,8 +11,7 @@ This cross-device dataset corresponds to an unprotected software AES-128 impleme
 
 Side-channel traces are acquired from eight XMEGA chips. 
 <div align="center">
-	<img src="https://github.com/ALPA-SCA/Adversarial-Learning-base-Profiled-SCA/raw/main/figures/XMEGAs.jpg" alt="Editor" width="300">
-  <img src="https://github.com/ALPA-SCA/Adversarial-Learning-base-Profiled-SCA/raw/main/figures/setups.jpg" alt="Editor" width="300">
+	<img src="https://github.com/ALPA-SCA/Adversarial-Learning-base-Profiled-SCA/raw/main/figures/XMEGAs.jpg" alt="Editor" width="300">  <img src="https://github.com/ALPA-SCA/Adversarial-Learning-base-Profiled-SCA/raw/main/figures/setups.jpg" alt="Editor" width="300">
 </div>
 
 The secret keys (first byte) for the eight devices are set to 0x01, 0x02, 0x03, 0x04, 0x05, 0x06, 0x07, 0x08.
